@@ -1,0 +1,12 @@
+0 CREATEDB demodb
+0 OPENDB demodb
+0 CREATETABLE contact
+0 OPENTABLE contact
+0 CLOSETABLE contact
+0 CLOSEDB demodb
+0 OPENDB demodb
+0 OPENTABLE contact
+0 CLOSETABLE contact
+0 OPENTABLE contact
+0 CLOSETABLE contact
+0 CLOSEDB demodb
