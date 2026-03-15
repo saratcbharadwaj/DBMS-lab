@@ -13,7 +13,7 @@
 #include <errno.h>
 #include "pdsv6.h"
 #include "bst.h"
-// HUGE PROPS FOR PRANAV FOR WRITING THE PROGRAM
+// HUGE PROPS TO PRANAV FOR WRITING THE PROGRAM
 
 
 #include "bst.h"
